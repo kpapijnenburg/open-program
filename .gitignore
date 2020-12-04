@@ -1,3 +1,8 @@
 .vscode
 sound-classifier/UrbanSound8k
 config.json
+class_example.png
+librosa_audio.png
+MFCCs.png
+original_audio.png
+urbansound8k_features.csv
